@@ -1,0 +1,16 @@
+body{
+    background-color: black !important;
+}
+
+#aboutText{
+    background-color: darkgray;
+    margin-top: 100px;
+    padding-bottom: 100px;
+    opacity: .4;
+}
+
+p{
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 100px;
+}
